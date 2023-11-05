@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c5ace0970bb6e8a4db39822a65cfe2a2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103573
+  packageName: Fantasy landscape
+  packageVersion: 1.1
+  assetPath: Assets/FantasyEnvironments/Environments/Ambient-Occlusion-Trees/Materials/Oak_bark.mat
+  uploadId: 366541

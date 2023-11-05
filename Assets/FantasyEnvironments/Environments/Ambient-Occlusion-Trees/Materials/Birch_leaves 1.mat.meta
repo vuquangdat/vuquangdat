@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ffc6ec73fb923634287e7dd921c9292d
+timeCreated: 1499682565
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103573
+  packageName: Fantasy landscape
+  packageVersion: 1.1
+  assetPath: Assets/FantasyEnvironments/Environments/Ambient-Occlusion-Trees/Materials/Birch_leaves
+    1.mat
+  uploadId: 366541

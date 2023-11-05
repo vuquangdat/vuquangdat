@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: da0dcbdd790a3f44ebdc0743ec709f5a
+timeCreated: 1509361185
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103573
+  packageName: Fantasy landscape
+  packageVersion: 1.1
+  assetPath: Assets/FantasyEnvironments/Environments/README.txt
+  uploadId: 366541
